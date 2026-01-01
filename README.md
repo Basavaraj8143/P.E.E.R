@@ -129,7 +129,7 @@ Ensure you have the following installed on your system:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/peer.git
+git clone https://github.com/sunkireddy-Barath/P.E.E.R.git
 cd peer
 
 # Install all workspace dependencies
